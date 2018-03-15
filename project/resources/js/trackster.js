@@ -1,5 +1,5 @@
 var Trackster = {};
-
+const API_KEY = 'e27487821a264bffa4867925fdbef68f';
 
 $(document).ready(function() {
   $('#search-button').click(function() {
